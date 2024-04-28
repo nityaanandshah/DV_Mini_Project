@@ -39,7 +39,3 @@ The app utilizes COVID-19 data from the Our World in Data (OWID) dataset.
 
 ## Credits
 This app was developed by Nitya Anand Shah & Niharika Manhar.
-
----
-
-Feel free to customize it further based on your preferences and specific instructions.
