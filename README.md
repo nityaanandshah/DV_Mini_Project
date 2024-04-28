@@ -21,7 +21,7 @@ The COVID-19 Dashboard is a web application built using the Shiny framework in R
 3. **India Insights**: Customize the scatter plot by selecting features for the X-axis, Y-axis, color, size, and shape of data points.
 
 ## Repository Link:
-
+https://github.com/nityaanandshah/DV_Mini_Project/tree/main
 
 ## Demo Video Link:
 https://drive.google.com/file/d/1SDQqBAn6E9bO_W1VscjvY7A9QkIlxRef/view?usp=sharing
