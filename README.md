@@ -20,6 +20,12 @@ The COVID-19 Dashboard is a web application built using the Shiny framework in R
 2. **Asia Trends**: Select countries from the dropdown menu to view specific COVID-19 metrics for Asia.
 3. **India Insights**: Customize the scatter plot by selecting features for the X-axis, Y-axis, color, size, and shape of data points.
 
+## Repository Link:
+
+
+## Demo Video Link:
+https://drive.google.com/file/d/1SDQqBAn6E9bO_W1VscjvY7A9QkIlxRef/view?usp=sharing
+
 ## Installation
 To run the app locally, make sure you have R and the required packages installed. Then, simply run the `app.R` script.
 
