@@ -1,0 +1,12 @@
+name: DVMiniProject
+title: DVMiniProject
+username: nityaashah
+account: nityaashah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11818981
+bundleId: 8550518
+url: https://nityaashah.shinyapps.io/DVMiniProject/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
